@@ -1,4 +1,4 @@
-# 🌌 Coerência Wavelet Ey (OMNI) × Vd / PPEF / DDEF – Agosto 2017
+# 🌠 Coerência Wavelet Ey (OMNI) × Vd / PPEF / DDEF – Agosto 2017
 
 Este repositório contém scripts MATLAB para calcular a **Coerência Wavelet Contínua (WCOH)** entre o **campo elétrico Ey (OMNI)** e diferentes componentes do **drift ionosférico (Vd, PPEF e DDEF)** na estação **Araguatins (TO)** durante **agosto de 2017**.
 
