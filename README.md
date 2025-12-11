@@ -69,7 +69,7 @@ Os gráficos serão salvos em images/.
 
 ## 📈 Gráficos Gerados
 
-### Ey × Drift / Fejer Sinais
+### Ey × Fejer 
 
 #### Ey × Vd_mean
 <div align="center">
